@@ -36,7 +36,7 @@ A full-stack social media application built using **MongoDB, Express, React, and
 ### Clone the repository
 
 ```bash
-git clone https://github.com/raisulislambup/PingUp.git
+git clone : https://github.com/raisulislambup/PingUp.git
 cd PingUp
 ```
 
