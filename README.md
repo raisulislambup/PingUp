@@ -1,9 +1,12 @@
 
 
+---
+
 # 🚀 PingUp – Social Media App (MERN Stack)
 
 A full-stack social media application built using **MongoDB, Express, React, and Node.js**, featuring real-time chat, posts, stories, and media uploads.
 
+---
 
 ## ✨ Features
 
@@ -16,6 +19,7 @@ A full-stack social media application built using **MongoDB, Express, React, and
 * ⚡ Background Jobs handled via **Inngest**
 * 🔎 User Search and Discovery
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -25,13 +29,14 @@ A full-stack social media application built using **MongoDB, Express, React, and
 * **Authentication & Media:** Clerk, ImageKit
 * **Background Jobs:** Inngest
 
+---
 
 ## 📦 Installation
 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<raisulislambup>/PingUp.git
+git clone https://github.com/raisulislambup/PingUp.git
 cd PingUp
 ```
 
@@ -41,7 +46,7 @@ cd PingUp
 cd server
 npm install
 npm run dev
-
+```
 
 ### Frontend setup
 
@@ -49,6 +54,10 @@ npm run dev
 cd ../client
 npm install
 npm start
+```
+
+---
+
 
 ## 👨‍💻 Author
 
@@ -62,6 +71,3 @@ If you find this project helpful, give it a ⭐ on GitHub!
 
 ---
 
-If you want, I can **also make a version with badges, GIF preview, and formal styling** so it looks extremely professional for a portfolio or recruiters.
-
-Do you want me to do that next?
